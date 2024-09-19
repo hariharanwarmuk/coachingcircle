@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+  }
+  
+  h1 {
+    color: #333;
+  }
+  
+  #agenda-list {
+    margin-top: 20px;
+  }
+  
+  .agenda-item {
+    border-bottom: 1px solid #ccc;
+    padding: 10px 0;
+  }
+  
+  .agenda-item h3 {
+    margin: 0;
+  }
+  
+  .agenda-item p {
+    margin: 5px 0 0;
+  }
+  
